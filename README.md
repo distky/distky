@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Distky
 - 👀 I’m interested in developing app
-- 🌱 I’m currently learning flutter
+- 🌱 I’m currently maintaining backend projects
 - 💞️ I’m looking to collaborate on ... 😎
 - 📫 How to reach me ... 
 
